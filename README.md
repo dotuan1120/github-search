@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Purpose
+For Skedulo application and learning purpose
+
+## Room of improvements
+- Need to handle API errors better (can not show meaningful error message to users, should check api error better than based on their message, ...)
+- Disable input field whenever the API is loading (if I disable it now, it will lose focus and user have to click on the input field to continue searching) 
+
 ## Available Scripts
 
 In the project directory, you can run:
